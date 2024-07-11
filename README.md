@@ -9,7 +9,7 @@ Esta aplicación Java funciona como un conversor de divisas utilizando la API de
 
 El proyecto está en su versión inicial (1.0.0) y completamente funcional.
 
-## Características de la aplicación y demostración
+## Características de la aplicación
 
 ### Características
 - Conversión de divisas entre varias monedas:
@@ -27,7 +27,6 @@ El proyecto está en su versión inicial (1.0.0) y completamente funcional.
 - Biblioteca JSON
 - API de ExchangeRate
 
-## Persona Contribuyentes
 ## Persona Desarrolladores del Proyecto
 
 - Larissa Romero
